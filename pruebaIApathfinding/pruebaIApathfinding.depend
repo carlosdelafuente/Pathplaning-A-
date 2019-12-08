@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555421698 source:/home/carlos/Escritorio/pruebaIApathfinding/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<vector>
+	"Nodo.h"
+
+1555250691 source:/home/carlos/Escritorio/pruebaIApathfinding/src/Nodo.cpp
+	"Nodo.h"
+
+1555250695 /home/carlos/Escritorio/pruebaIApathfinding/include/Nodo.h
+	<iostream>
+
